@@ -1,0 +1,39 @@
+{
+  "coffees": [
+    {
+      "id": "e7877f58-76af-4f97-91e7-b20371cb0ef6",
+      "name": "Paulig Presidentti",
+      "weight": "500",
+      "price": "7.99",
+      "level": "4"
+    },
+    {
+      "id": "ea4dddac-dedd-4848-8575-ce8a1b245a80",
+      "name": "Juhla Mokka",
+      "weight": "500",
+      "price": "7,99",
+      "level": "3"
+    },
+    {
+      "id": "2512948e-bddd-44ac-a9f7-1657395cdcac",
+      "name": "Robert's Coffee",
+      "weight": "400",
+      "price": "9.99",
+      "level": "3"
+    },
+    {
+      "id": "dfd3d50c-817d-43d0-b0c9-b5aa6745d276",
+      "name": "Meira Kulta Katriina",
+      "weight": "500",
+      "price": "5.99",
+      "level": "5"
+    },
+    {
+      "id": "2499db5d-85ec-46d9-a2aa-c6be755820e2",
+      "name": "Löfbergs Lila Mellanrost",
+      "weight": "500",
+      "price": "6.99",
+      "level": "1"
+    }
+  ]
+}
